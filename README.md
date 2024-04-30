@@ -1,6 +1,6 @@
 # Unity-Prototype-2
 
-You can play my game by clicking [this link](https://play.unity.com/mg/other/webgl-builds-402846).
+You can play my game by clicking this [link](https://play.unity.com/mg/other/webgl-builds-402846).
 
 ## Screenshot from project 
 
